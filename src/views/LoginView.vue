@@ -5,7 +5,7 @@
       <h1>Logga in på Mina sidor</h1>
       <input type="text" placeholder="E-postadress" v-model="email">
       <input type="password" placeholder="Lösenord" v-model="password">
-      <button class="btn" style="width:100%" @click="handleLogin">Logga in</button>
+      <button class="btn" style="width:100%" @click="handleLogin">Logga out</button>
       <p class="hint" style="margin-top:10px">Problem att logga in? Ring kundservice 020-123 456</p>
     </div>
   </div>
