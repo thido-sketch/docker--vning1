@@ -11,3 +11,10 @@
 
 
 ## Steg 2
+
+- building tog 14.1 s 
+
+## Steg 3
+
+- building tog 3.9 s
+- 87.1MB (disk usage) och 27.6MB (content size)
